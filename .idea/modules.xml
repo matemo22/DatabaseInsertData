@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DatabaseInsertData.iml" filepath="$PROJECT_DIR$/DatabaseInsertData.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\MobileApplication\DatabaseInsertData\app\app.iml" filepath="D:\MobileApplication\DatabaseInsertData\app\app.iml" />
       <module fileurl="file://D:\MobileApplication\DatabaseInsertData\week11app.iml" filepath="D:\MobileApplication\DatabaseInsertData\week11app.iml" />
     </modules>
   </component>
